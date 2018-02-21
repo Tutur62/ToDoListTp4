@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To-Do-List</string>
+    <string name="action_settings">Tout Supprimer</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="test">Êtes-vous sur ?</string>
+
+</resources>
